@@ -1,3 +1,3 @@
-manah
-manah
-do-do-do-do
+echo manah
+echo manah
+echo do-do-do-do
