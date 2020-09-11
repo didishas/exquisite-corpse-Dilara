@@ -1,3 +1,3 @@
-echo manah
-echo manah
-echo do-do-do-do
+>>>manah
+>>>>manah
+>>>>>do-do-do-do
